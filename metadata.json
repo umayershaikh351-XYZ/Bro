@@ -1,0 +1,6 @@
+{
+  "name": "BRO",
+  "description": "Single-user, local-first, zero-trust secure personal AI assistant for Android with AMOLED wireframe aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

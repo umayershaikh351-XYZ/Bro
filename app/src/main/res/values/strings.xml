@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BRO</string>
+    <string name="accessibility_service_description">BRO Local Security and Accessibility Assistant provides on-screen assistance while enforcing zero-money constraints and local data privacy.</string>
+    <string name="security_status_ok">ZERO-TRUST ENFORCED // NO CLOUD ACCOUNT</string>
+    <string name="voice_orb_listening">LISTENING…</string>
+    <string name="voice_orb_idle">TAP OR SPEAK</string>
+</resources>
